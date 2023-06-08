@@ -1,0 +1,1 @@
+﻿I am not strong in unit tests but you can clone this mini console app to test this library - https://github.com/TimmyGray/Test_Console
